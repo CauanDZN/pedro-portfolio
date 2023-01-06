@@ -55,7 +55,7 @@ export function Page({ changeNav }: PageType) {
             <SectionTitle>Sobre mim</SectionTitle>
 
             <SectionText>
-              Meu nome é Pedro Yuri, tenho 18 anos, sou Segurança em Tecnologia da Informação e estudo Redes de Computadores na EEEP Leonel de Moura Brizola.
+              Meu nome é Pedro Yuri, tenho 18 anos, sou da área da Segurança em Tecnologia da Informação e estudo Redes de Computadores na EEEP Leonel de Moura Brizola.
             </SectionText>
 
             <div className='SoftSkills'>

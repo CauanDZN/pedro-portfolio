@@ -105,43 +105,43 @@ export const letCourses = [
     text: 'DFE - Digital Forensics Essentials',
     description: 'EC-Council',
     image: 'Cert',
-    link: null,
+    link: 'https://drive.google.com/file/d/19m5k2PoCcVM6JmtSHr2M9BC6najAhQP_/view',
     type: 'cert'
   }, {
     text: 'EHE - Ethical Hacking Essentials',
     description: 'EC-Council',
     image: 'Cert',
-    link: null,
+    link: 'https://drive.google.com/file/d/1BlCSX_BK82yNXdJci2E8CunzexARt5j8/view',
     type: 'cert'
   }, {
     text: 'NDE - Network Defense Essentials;',
     description: 'EC-Council',
     image: 'Cert',
-    link: null,
+    link: 'https://drive.google.com/file/d/1yyc4OzvR9tjNaDXeAT3V2SjhvYBm948L/view',
     type: 'cert'
   }, {
     text: 'PEH - Practical Ethical Hacking',
     description: 'TCM Security',
     image: 'Cert',
-    link: null,
+    link: 'https://drive.google.com/file/d/1fKNzwwIn-hKBiBtE8SCMs0zVlZTYTZTA/view',
     type: 'cert'
   }, {
     text: 'Endian Firewall - Administração Profissional',
     description: 'Udemy',
     image: 'Cert',
-    link: null,
+    link: 'https://drive.google.com/file/d/17pVp8AceASAUwATe-XLfMGZHM2hulPdG/view',
     type: 'cert'
   }, {
     text: 'Practical Malware Analysis & Triage',
     description: 'TCM Security',
     image: 'Cert',
-    link: null,
+    link: 'https://drive.google.com/file/d/1bz6MIvnPgOvIYSRjPfIDB-gipa_ag0S0/view',
     type: 'cert'
   }, {
     text: 'Hacker Ético Associado',
     description: 'IBSEC - Instituto Brasileiro de Cibersegurança',
     image: 'Cert',
-    link: null,
+    link: 'https://drive.google.com/file/d/1UExxchBkpt8sfsOazDEMKWq8lkUdEi2l/view',
     type: 'cert'
   }, 
 
