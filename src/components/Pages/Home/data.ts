@@ -8,6 +8,10 @@ import monitoring_1 from '../../../assets/images/monitoring_1.png'
 import monitoring_2 from '../../../assets/images/monitoring_2.png'
 import monitoring_3 from '../../../assets/images/monitoring_3.png'
 
+import lecturecdl_1 from '../../../assets/images/lecture-cdl-1.jpeg'
+import lecturecdl_2 from '../../../assets/images/lecture-cdl-2.jpeg'
+import lecturecdl_3 from '../../../assets/images/lecture-cdl-3.jpeg'
+
 
 export const letSummary1 = [
   {
@@ -69,43 +73,66 @@ export const letContact = [
   },
 ]
 
-export const Projetos = [{
-  titulo: "Endian Firewall: Criando VPN para projeto escolar",
-  key: 9890,
-  descricao: "Trabalhei em um projeto de criação de VPN em uma das aulas de Meios de Comunicação de Dados, usando Endian Firewall.",
-  items: [{
-      src: study_1,
-      alt: "",
-      titulo: "Sobre",
-      texto: "",
-      key: 3412411
-  },]
-}, {
-  titulo: "Monitorias",
-  key: 44132,
-  descricao: 'Ministrei várias monitorias ao longo do ano, de disciplinas das matérias do curso técnico, tais como Administração de Redes, Meios de Comunicação de Dados, etc.',
-  items: [  {
-      src: monitoring_1,
-      alt: "",
-      titulo: "Sobre",
-      texto: "",
-      key: 64532
-  },{
-      src: monitoring_2,
+export const Projetos = [
+  {
+    titulo: "Palestra na Faculdade CDL",
+    key: 9891,
+    descricao: "Ministrei uma palestra, falando sobre a Anatomia de Um Ataque.",
+    items: [{
+        src: lecturecdl_1,
+        alt: "",
+        titulo: "Sobre",
+        texto: "",
+        key: 3444
+    },{
+        src: lecturecdl_2,
+        alt: "",
+        titulo: "Sobre",
+        texto: "",
+        key: 53412
+    }, {
+      src: lecturecdl_3,
       alt: "",
       titulo: "Sobre",
       texto: "",
       key: 53412
+    }, ]
   }, {
-    src: monitoring_3,
-    alt: "",
-    titulo: "Sobre",
-    texto: "",
-    key: 53412
-  }, 
-
-]
-}, ];
+    titulo: "Monitorias",
+    key: 44132,
+    descricao: 'Ministrei várias monitorias ao longo do ano, de disciplinas das matérias do curso técnico, tais como Administração de Redes, Meios de Comunicação de Dados, etc.',
+    items: [  {
+        src: monitoring_1,
+        alt: "",
+        titulo: "Sobre",
+        texto: "",
+        key: 64532
+    },{
+        src: monitoring_2,
+        alt: "",
+        titulo: "Sobre",
+        texto: "",
+        key: 53412
+    }, {
+      src: monitoring_3,
+      alt: "",
+      titulo: "Sobre",
+      texto: "",
+      key: 53412
+    }, 
+  ]
+  }, {
+    titulo: "Endian Firewall: Criando VPN para projeto escolar",
+    key: 9890,
+    descricao: "Trabalhei em um projeto de criação de VPN em uma das aulas de Meios de Comunicação de Dados, usando Endian Firewall.",
+    items: [{
+        src: study_1,
+        alt: "",
+        titulo: "Sobre",
+        texto: "",
+        key: 3412411
+    },]
+  }, ];
 
 export const letCourses = [
   {
