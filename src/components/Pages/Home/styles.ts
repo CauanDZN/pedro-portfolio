@@ -4,7 +4,7 @@ interface FontProps {
   tone?: string | null;
 }
 
-import foto from '../../../assets/images/profile.jpg'
+import foto from '../../../assets/images/profile.png'
 
 export const PageMain = styled.main`
   height: auto;

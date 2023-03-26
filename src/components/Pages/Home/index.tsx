@@ -7,7 +7,7 @@ import {
 import { Summary } from '../../Summary';
 import { IconButton } from '../../IconButton';
 
-import darkPicture from '../../../assets/images/profile.jpg';
+import darkPicture from '../../../assets/images/profile.png';
 import { Logo } from '../../Header/styles';
 import { Picture } from '../../Picture';
 
