@@ -60,6 +60,13 @@ export const letContact = [
     link: 'https://wa.me/+5585997995248',
     type: 'contact'
   },
+  {
+    text: 'LinkedIn',
+    description: 'Pedro Yuri',
+    image: 'Linkedin',
+    link: 'https://www.linkedin.com/in/pedro-yuri-47391b232/',
+    type: 'contact'
+  },
 ]
 
 export const Projetos = [{

@@ -7,7 +7,7 @@ import {
 import { Summary } from '../../Summary';
 import { IconButton } from '../../IconButton';
 
-import darkPicture from '../../../assets/images/letmain.png';
+import darkPicture from '../../../assets/images/profile.jpg';
 import { Logo } from '../../Header/styles';
 import { Picture } from '../../Picture';
 
@@ -60,17 +60,9 @@ export function Page({ changeNav }: PageType) {
 
             <div className='SoftSkills'>
               <IconButton
-                text='Gosto de tudo que envolva arte, seja dança, canto ou música!'
+                text='Em constante estudo.'
                 description=''
-                image='Music'
-                link=''
-                type='skill'
-              />
-
-              <IconButton
-                text='E gosto também de fotografar.'
-                description=''
-                image='Camera'
+                image='Book'
                 link=''
                 type='skill'
               />
