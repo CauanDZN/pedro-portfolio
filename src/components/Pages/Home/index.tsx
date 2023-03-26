@@ -13,6 +13,7 @@ import { Picture } from '../../Picture';
 
 import { letContact, letCourses, letSummary1, letSummary2, Projetos } from './data';
 import { PicContainer } from '../../PicContainer';
+import pdf from '../../../assets/docs/CV - Pedro Yuri.pdf'
 
 
 interface PageType {
@@ -35,6 +36,7 @@ export function Page({ changeNav }: PageType) {
             <div className="TextContainer">
               <h1>Sou <span>Pedro Yuri</span></h1>
               <h2>Segurança em Tecnologia da Informação</h2>
+              <a href={pdf}><button>Baixar currículo</button></a>
               <button onClick={() => {
                 window.scrollTo(0, document.getElementById('contacts')!.offsetTop - document.getElementById('header')!.offsetHeight)
               }}>Entrar em contato</button>

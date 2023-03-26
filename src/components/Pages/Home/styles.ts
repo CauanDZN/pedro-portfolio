@@ -197,7 +197,7 @@ export const PresentContainer = styled.div`
 
     button {
       padding: 0.5rem 0.875rem;
-      margin: 1.5rem 0 0 0;
+      margin: 1.5rem 0.5rem 0 0;
       background: rgba(255, 255, 255, 0.05);
       color: var(--green);
       outline: none;
