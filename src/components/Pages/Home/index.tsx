@@ -35,7 +35,7 @@ export function Page({ changeNav }: PageType) {
           <div className="Container">
             <div className="TextContainer">
               <h1>Sou <span>Pedro Yuri</span></h1>
-              <h2>SOC Analyst</h2>
+              <h2>Segurança em Tecnologia da Informação</h2>
               <a href={pdf} target="_blank"><button>Baixar currículo</button></a>
               <button onClick={() => {
                 window.scrollTo(0, document.getElementById('contacts')!.offsetTop - document.getElementById('header')!.offsetHeight)
