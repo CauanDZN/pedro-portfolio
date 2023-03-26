@@ -12,6 +12,10 @@ import lecturecdl_1 from '../../../assets/images/lecture-cdl-1.jpeg'
 import lecturecdl_2 from '../../../assets/images/lecture-cdl-2.jpeg'
 import lecturecdl_3 from '../../../assets/images/lecture-cdl-3.jpeg'
 
+import lectureunifametro_1 from '../../../assets/images/lecture-unifametro-1.jpeg'
+import lectureunifametro_2 from '../../../assets/images/lecture-unifametro-2.jpeg'
+import lectureunifametro_3 from '../../../assets/images/lecture-unifametro-3.jpeg'
+
 
 export const letSummary1 = [
   {
@@ -98,9 +102,32 @@ export const Projetos = [
       key: 53412
     }, ]
   }, {
+    titulo: "Palestra na Faculdade UNIFAMETRO",
+    key: 9892,
+    descricao: "Ministrei uma palestra, falando sobre a Anatomia de Um Ataque.",
+    items: [{
+        src: lectureunifametro_1,
+        alt: "",
+        titulo: "Sobre",
+        texto: "",
+        key: 3444
+    },{
+        src: lectureunifametro_2,
+        alt: "",
+        titulo: "Sobre",
+        texto: "",
+        key: 53412
+    }, {
+      src: lectureunifametro_3,
+      alt: "",
+      titulo: "Sobre",
+      texto: "",
+      key: 53412
+    }, ]
+  }, {
     titulo: "Monitorias",
     key: 44132,
-    descricao: 'Ministrei várias monitorias ao longo do ano, de disciplinas das matérias do curso técnico, tais como Administração de Redes, Meios de Comunicação de Dados, etc.',
+    descricao: 'Ministrei várias monitorias ao longo do ano, de disciplinas das matérias do curso técnico.',
     items: [  {
         src: monitoring_1,
         alt: "",
