@@ -101,12 +101,6 @@ Possuo sólidos conhecimentos em:
 Possuo as seguintes certificações:
 <ul>
         <li>
-          IBM - Rational Unified Process v7.0.
-        </li>
-        <li>
-          IBM - Object Oriented Analysis and Design, vUML 2.0.
-        </li>
-        <li>
           Fortinet - NSE 1 Network Security Associate.
         </li>
         <li>
@@ -126,15 +120,6 @@ Possuo as seguintes certificações:
         </li>
         <li>
           IBSEC Certified - Cybersecurity Awareness.
-        </li>
-         <li>
-          ISO - 9001 Quality Management Systems Associate.
-        </li>
-         <li>
-          ISO/IEC - 20000 IT Service Management Associate.
-        </li>
-         <li>
-          ISO/IEC - 27001 Information Security Associate.
         </li>
 </ul>
 
