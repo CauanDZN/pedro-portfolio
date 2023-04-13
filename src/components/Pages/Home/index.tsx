@@ -68,6 +68,14 @@ export function Page({ changeNav }: PageType) {
                 link=''
                 type='skill'
               />
+
+              <IconButton
+                text='Gosto de estudar programação.'
+                description=''
+                image='Code'
+                link=''
+                type='skill'
+              />
             </div>
 
           </div>

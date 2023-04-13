@@ -19,21 +19,18 @@ import lectureunifametro_3 from '../../../assets/images/lecture-unifametro-3.jpe
 
 export const letSummary1 = [
   {
-    infoTitle: 'Kali Linux',
-    value: '95%'
+    infoTitle: 'Security Operation Center (SOC)',
+    value: '90%'
+  },
+  {
+    infoTitle: 'Cibersegurança',
+    value: '90%'
   },
 
   {
-    infoTitle: 'Pentest',
-    value: '95%'
+    infoTitle: 'Redes de Computadores',
+    value: '85%'
   },
-
-  {
-    infoTitle: 'Endian Firewall',
-    value: '95%'
-  },
-
-
 ];
 
 export const letSummary2 = [
